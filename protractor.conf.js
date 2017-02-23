@@ -13,7 +13,7 @@ exports.config = {
     'browserName': 'chrome'
   },
 
-  baseUrl: 'https://har-first-app.herokuapp.com/',
+  baseUrl: 'har-first-app',
 
   // Spec patterns are relative to the current working directory when
   // protractor is called.
