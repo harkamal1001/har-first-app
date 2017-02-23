@@ -52,7 +52,8 @@
     "chalk": "~1.1.1",
     "uglify-save-license": "~0.4.1"
   },
-  "engines": {
-    "node": ">=0.10.0"
-  }
+  "engines" : {
+    "node" : "~0.12.7",
+    "npm" : "~2.11.3"
+   }
 }
